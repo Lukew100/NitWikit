@@ -71,5 +71,5 @@ sidebar_position: 5
 ```
 %essentials_has_kit_<kitname>%                  - 是否有XX工具包
 %essentials_kit_is_available_<kitname>%         - 是否可以获得XX工具包
-%essentials_kit_time_until_available_<kitname>% - 知道可以获得的时间
+%essentials_kit_time_until_available_<kitname>% - 礼包冷却时间
 ```
