@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # kit 礼包
 
-## 创建 kit
+## 创建礼包
 
 ```
 /kitcreate <kit名字> 冷却
@@ -36,6 +36,12 @@ sidebar_position: 5
 ![](_images/kit_3.png)
 
 是的，除了 `essentials.kit` 我们还需要给予 `essentials.kits.<kit名字>` 玩家才能领取
+
+## 删除礼包
+
+```
+/deletekit <kit名字>
+```
 
 ## 更多信息
 
