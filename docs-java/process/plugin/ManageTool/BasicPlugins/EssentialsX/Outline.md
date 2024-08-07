@@ -1,6 +1,7 @@
 ---
 title: 概览
-sidebar_position: 2
+slug: /plugins/essentials
+sidebar_position: 1
 ---
 
 # 概览
