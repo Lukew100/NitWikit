@@ -15,7 +15,4 @@ sidebar_position: 3
 
 而对于 tpa,warp,home,back 等传送功能，或许你可以试试 [HuskHomes](https://www.spigotmc.org/resources/.83767/)
 
-CMI 的那些功能几乎都有可以平替的插件如：
-
-- 计分板 [DecentHolograms](../../other/Holograms/DecentHolograms.md)
-- 排行榜 [ajLeaderboards](https://www.spigotmc.org/resources/.85548/)
+CMI 的那些功能几乎都有可以平替的插件
