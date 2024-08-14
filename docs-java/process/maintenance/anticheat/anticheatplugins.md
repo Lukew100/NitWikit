@@ -171,4 +171,4 @@ GitHub：https://github.com/TalentsRC/Talents-AntiCheat-Config
 
 > Matrix + GrimAC
 
-> NoChestPlus + GrimAC
+> NoCheatPlus + GrimAC
